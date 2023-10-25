@@ -14,22 +14,31 @@
 
 ### Frontend Development
 - React.js <i class="fab fa-react"></i>
-- Vue.js <i class="fab fa-vuejs"></i>
 - Next.js <i class="fab fa-react"></i>
 - Gatsby.js <i class="fab fa-gatsby"></i>
+- Vue.js <i class="fab fa-vuejs"></i>
 - React Native <i class="fab fa-react"></i>
 - Bootstrap <i class="fab fa-bootstrap"></i>
-- WordPress <i class="fab fa-wordpress"></i>
+- TailwindCSS
+- MUI
+- ChakraUI
+- Ant Design
 
 ### Backend Development
 - Node.js <i class="fab fa-node-js"></i>
 - PHP <i class="fab fa-php"></i>
 - MongoDB <i class="fas fa-database"></i>
 - GraphQL <i class="fas fa-link"></i>
+- Laravel
+- Express
+- Nest
+- Django
 
 ### Programming Languages
 - JavaScript <i class="fab fa-js"></i>
 - TypeScript <i class="fab fa-js"></i>
+- Python
+- C#
 
 ### Cloud Computing
 - AWS services (S3, Lambda, API Gateway) <i class="fab fa-aws"></i>
