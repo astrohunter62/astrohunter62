@@ -42,6 +42,9 @@
 
 ### Cloud Computing
 - AWS services (S3, Lambda, API Gateway) <i class="fab fa-aws"></i>
+- Firebase
+- GCP
+- Microsoft Azure
 
 ### CI/CD Tools
 - GitHub Actions <i class="fab fa-github"></i>
